@@ -12,3 +12,7 @@ color:
     - '#2667FF'
     - '#3B28CC'
 name: Test
+navigation:
+  - name: Bonne Bay Search & Rescue
+    url: bbsar.org
+    type: external
